@@ -11,9 +11,9 @@
 
 😄**Pronouns: He/Him**
 
-- I am currently working on 📱 Flutter
+- I am currently working on 📱 Flutter 
 
-- 🌱  : I’m currently learning Backend
+- 🌱  : I’m currently working on Dart Backend
 
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
