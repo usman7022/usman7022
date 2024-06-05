@@ -67,7 +67,7 @@
 
 ## 📟 Language:
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman7022&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaibRumi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
  </p>
 
 ### Show some ❤️ by starring some of the repositories!
