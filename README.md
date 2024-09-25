@@ -3,26 +3,24 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 	
-<img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;UX/UI+Enthusiast;Open+Source+Lover+&center=true&width=500&height=50" ></a></h2>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Mobile+App+Developer;JavaScript+Enthusiast&center=true&width=500&height=50" ></a></h2>
 
 ## 🙋‍♂️ About Me
 
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
-😄**Pronouns: He/Him**
+😄 **Pronouns: He/Him**
 
-- I am currently working on 📱 Flutter 
+- I am currently working on 📱 **React Native** and **Flutter** applications.
 
-- 🌱  : I’m currently working on Dart Backend
+- 🌱 I’m focusing on **JavaScript** development, including frameworks like **React**, **Next.js**, and **Vue.js**.
 
+- 👯 I aim to contribute as a **[Full Stack Developer]()** and enhance my skills in **UI/UX Design** and **Figma to HTML** conversions.
 
-- 👯  : I want to contribute as **[Flutter Developer]()**
+- 📫 How to reach me: [usmanmunir7022@gmail.com](mailto:usmanmunir7022@gmail.com)
 
+- ⚡ Fun fact: **I love playing video games, creating art, sketching, and listening to music!**
 
-- 📫  : How to reach me usmanmunir7022@gmail.com
-
-  
-- ⚡ : Fun fact **I love playing video games, Art, Sketching and Music**
  
 
 
