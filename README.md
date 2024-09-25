@@ -10,7 +10,7 @@
 
 </div>
 
-# 💻 My favorite tools and technologies
+     # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -135,14 +135,6 @@
 
 </div>
 
-## 💻 Tech Stack:
-https://user-images.githubusercontent.com/75971776/135149518-789bbe5c-ed66-43e5-9ad8-5627cef36933.png
-
-
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
-
-
-<!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
@@ -178,39 +170,12 @@ To contact me.
 
 ![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
 
-<table>
-  <tr>
-    <td>
-      
-- [Welcome!](#AuWaiLun-welcome)
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Rapidfire](#rapidfire)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
-    - [✍️ Random Dev Quote](#️-random-dev-quote)
-    - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
-
-    </td>
-    <td>    
-      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
-      https://trademarktoday-nextjs.vercel.app <br/>
-      https://trademarktoday-nextjs-rbxk.vercel.app
-    </td>
-  </tr>
-</table>
-
 
 # Welcome!
   
-
 <a href="http://au-portfolio.great-site.net" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ## My personal values and work ethic
@@ -226,11 +191,13 @@ To contact me.
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
+✨ Good Skills Have ✔React, ✔Next.js, ✔Node.js, ✔Express.js, ✔TypeScript
+
+✨ Preferred JavaScript Framwork ✔Vue.js, ✔Angular.js, ✔Nust.js, ✔Electorn.js
+
 ✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii
        
 ✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
-          
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
          
 ✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
          
@@ -254,10 +221,10 @@ To contact me.
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
+- 🔭 I’m currently working on Web and Mobile Development
   
 
-- 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
+- 🌱 I’m currently building business websites using React, Next.js, Typescript, Tailwind CSS.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
