@@ -149,8 +149,6 @@
 </p>
 
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
-
 
 
 
