@@ -147,7 +147,7 @@
 
 
 <p align="center">
-<a href="https://github.com/usman7022/"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="100%" alt="Usman Munir"/></a>
+<a href="https://github.com/usman7022/"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="95%" alt="Usman Munir"/></a>
 
 </p>
 
