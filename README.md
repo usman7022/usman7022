@@ -161,12 +161,6 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-# Reach out to me #
-
-
-
-To contact me.
-
 
 ![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
 
