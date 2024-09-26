@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 I am Usman Munir - Full Stack Developer #
+# Hello! 👋 I am Usman Munir #
 <div>
 <br/>
 - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web (AI-Based) and mobile applications<br/>
